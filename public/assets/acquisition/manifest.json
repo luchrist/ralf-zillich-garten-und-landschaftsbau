@@ -1,0 +1,62 @@
+[
+  {
+    "originalFile": "scraped-01.jpg",
+    "file": "photos/projekte/gartenanlage-mit-rasen-und-bepflanzung-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Gartenanlage mit Rasen und Bepflanzung",
+    "subjectSlug": "gartenanlage-mit-rasen-und-bepflanzung",
+    "description": "Dieses Foto zeigt einen gepflegten Garten mit einer Rasenfläche, vielfältiger Bepflanzung und Sitzgelegenheiten, umgeben von einer natürlichen Landschaft.",
+    "leistung": "gartenneugestaltung"
+  },
+  {
+    "originalFile": "api-01.jpg",
+    "file": "photos/projekte/gepflegter-garten-mit-rasen-und-beeten-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Gepflegter Garten mit Rasen und Beeten",
+    "subjectSlug": "gepflegter-garten-mit-rasen-und-beeten",
+    "description": "Ein gepflegter Garten mit Rasenfläche, Blumenbeeten und Sitzgelegenheiten, umgeben von Bäumen und Natur.",
+    "leistung": "gartenneugestaltung"
+  },
+  {
+    "originalFile": "api-02.jpg",
+    "file": "photos/projekte/moderner-gartenzaun-mit-sichtschutz-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Moderner Gartenzaun mit Sichtschutz",
+    "subjectSlug": "moderner-gartenzaun-mit-sichtschutz",
+    "description": "Ein dunkler Metallzaun mit integrierten Sichtschutzelementen grenzt einen Garten an einen gepflasterten Gehweg ab.",
+    "leistung": "zaun-sichtschutz"
+  },
+  {
+    "originalFile": "api-03.jpg",
+    "file": "photos/baustellen/verlegen-von-pflastersteinen-01.jpg",
+    "category": "baustelle",
+    "quality": "high",
+    "subject": "Verlegen von Pflastersteinen",
+    "subjectSlug": "verlegen-von-pflastersteinen",
+    "description": "Ein Mitarbeiter verlegt Pflastersteine und prüft die Ebenheit mit einer Wasserwaage.",
+    "leistung": "keine"
+  },
+  {
+    "originalFile": "api-04.jpg",
+    "file": "photos/details/vielfaltige-gartenbepflanzung-01.jpg",
+    "category": "detail",
+    "quality": "high",
+    "subject": "Vielfältige Gartenbepflanzung",
+    "subjectSlug": "vielfaltige-gartenbepflanzung",
+    "description": "Ein sonniges Gartenbeet mit einer Mischung aus verschiedenen Pflanzen und Sträuchern, darunter blühende und immergrüne Arten.",
+    "leistung": "gartenneugestaltung"
+  },
+  {
+    "originalFile": "api-05.jpg",
+    "file": "photos/projekte/gepflegter-garten-mit-rasenflache-01.jpg",
+    "category": "projekt",
+    "quality": "high",
+    "subject": "Gepflegter Garten mit Rasenfläche",
+    "subjectSlug": "gepflegter-garten-mit-rasenflache",
+    "description": "Ein sonniger Blick auf einen gepflegten Garten mit Rasen, Blumenbeeten und einer kleinen Sitzecke.",
+    "leistung": "gartenneugestaltung"
+  }
+]
