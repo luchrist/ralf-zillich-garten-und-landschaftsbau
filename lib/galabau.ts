@@ -208,7 +208,7 @@ export const galabau: GalabauConfig = {
           "a": "Als Faustwert rund zwei Prozent, weg vom Gebäude. Wo das nicht geht, planen wir Rinnen oder Versickerung ein."
         }
       ],
-      "image": "/assets/leistungen/pflasterarbeiten-terrasse.webp",
+      "image": "/assets/acquisition/baustellen/verlegen-von-pflastersteinen-01.jpg",
       "estimate": {
         "minPerUnit": 90,
         "maxPerUnit": 210,
@@ -318,7 +318,7 @@ export const galabau: GalabauConfig = {
           "a": "Der Formschnitt erfolgt außerhalb der gesetzlichen Schonzeit. Radikale Rückschnitte sind vom 1. März bis 30. September nicht zulässig."
         }
       ],
-      "image": "/assets/leistungen/gartenpflege-heckenschnitt.webp",
+      "image": "/assets/acquisition/projekte/gepflegter-garten-mit-rasenflache-01.jpg",
       "estimate": {
         "minPerUnit": 3,
         "maxPerUnit": 12,
@@ -373,7 +373,7 @@ export const galabau: GalabauConfig = {
           "a": "Bei Sichtschutzwänden und Toren ja. Bei leichten Zäunen genügen oft Einschlaghülsen, das entscheidet der Untergrund."
         }
       ],
-      "image": "/assets/leistungen/zaun-und-sichtschutz.webp",
+      "image": "/assets/acquisition/projekte/moderner-gartenzaun-mit-sichtschutz-01.jpg",
       "estimate": {
         "minPerUnit": 90,
         "maxPerUnit": 320,
