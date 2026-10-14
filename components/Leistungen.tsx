@@ -46,7 +46,6 @@ export function Leistungen() {
                 </span>
               </div>
               <div className="flex flex-col gap-4 p-6">
-                <p className="text-[14px] leading-relaxed text-ink/70">{service.teaser}</p>
                 <span className="inline-flex items-center gap-2 font-mono text-[11px] uppercase tracking-[0.2em] text-laub-600 transition-colors group-hover:text-laub-700">
                   {service.cta}
                   <span className="transition-transform duration-300 group-hover:translate-x-1">&rarr;</span>
